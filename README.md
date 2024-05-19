@@ -12,4 +12,4 @@ By using this tool, I assume you know what you are doing.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [License](https://github.com/BearrXW/UPC2C/blob/main/LICENSE) file for details.
